@@ -15,7 +15,6 @@ class RegCount():
 			"nickles\t" : 5 , "nickle rolls" : 200,
 			"dimes  \t" : 10 , "dime rolls" : 500,
 			"quarters\t" : 25 , "quarter rolls" : 1000,
-			
 			"ones    \t" : 100 , "ones bundle": 2000 ,
 			"fives    \t" : 500 , "fives bundle": 10000 ,
 			"tens    \t" : 1000 , "tens bundle": 20000 ,
