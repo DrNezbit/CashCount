@@ -1,4 +1,4 @@
-This is a rewrite of my https://github.com/DrNezbit/CashCount
+This is a rewrite of my https://github.com/DrNezbit/CashCount-CLI
 
 Originally designed to help count a register, safe, or any other situation where counting the number of coins/rolls/bills/bundles is more efficient then totalling each with a calculator.
 
